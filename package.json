@@ -1,0 +1,18 @@
+{
+  "name": "enye-backend",
+  "version": "1.0.0",
+  "description": "a project assessment",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "author": "Derry ukere",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "morgan": "^1.10.0"
+  }
+}
